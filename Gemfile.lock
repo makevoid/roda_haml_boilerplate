@@ -1,11 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    coffee-script (2.4.1)
-      coffee-script-source
-      execjs
-    coffee-script-source (1.12.2)
-    execjs (2.7.0)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -23,7 +18,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-script
   haml
   hashie
   inflecto
